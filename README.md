@@ -8,9 +8,9 @@
 
 ---
 
-- :telescope: I’m looking for Front-end and Back-end opportunities and colaborations for building web applications.
+- :telescope: I’m looking for Front-end and Back-end opportunities and colaborations building web applications.
 - :seedling: Exploring Python, Java and Data Science.
-- :zap: In my free time, I solve problems on Codewars while listening my infinity spotify playlist.
+- :zap: In my free time, I solve problems on Codewars while listening my infinity spotify playlists.
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/amanda-fullstack/)
 
 ---
