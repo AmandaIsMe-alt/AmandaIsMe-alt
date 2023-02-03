@@ -5,6 +5,7 @@
 
 # <h1 align="center">Hello  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 ## My name is Amanda
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=fd428d&center=true&vCenter=true&width=1000&lines=Web+Full+stack+Developer)](https://git.io/typing-svg)
 
 ---
 
