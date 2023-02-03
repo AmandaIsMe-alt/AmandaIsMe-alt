@@ -15,7 +15,7 @@
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### <h1 align="center">:hammer_and_wrench: Languages and Tools :
 <div align="center">
   <img height="40" width="40" src="https://cdn.simpleicons.org/css3/B0E0E6" title='CSS'/>
   <img height="40" width="40" src="https://cdn.simpleicons.org/postgresql/B0E0E6" title='PostgreSQL'/>
@@ -32,5 +32,4 @@
   
   
 </div>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmandaIsMe-alt&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<h1 align="center">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmandaIsMe-alt&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
