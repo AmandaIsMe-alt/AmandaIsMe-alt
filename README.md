@@ -30,8 +30,7 @@
   <img height="40" width="40" src="https://cdn.simpleicons.org/figma/B0E0E6" title='Figma'/>
   <img height="40" width="40" src="https://cdn.simpleicons.org/mysql/B0E0E6" title='MySQL'/>
   <img height="40" width="40" src="https://cdn.simpleicons.org/react/B0E0E6" title='React'/>
-  
-  
+
 </div>
   
 ---
