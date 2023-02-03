@@ -5,11 +5,11 @@
 
 # <h1 align="center">Hello  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 ## My name is Amanda
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=fd428d&center=true&vCenter=true&width=1000&lines=Web+Full+stack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=fd428d&center=true&vCenter=true&width=1000&lines=Web+Fullstack+Developer)](https://git.io/typing-svg)
 
 ---
 
-- :telescope: I’m looking for opportunities and colaborations to frontend and backend for building web applications.
+- :telescope: I’m looking for Front-end and Back-end opportunities and colaborations for building web applications.
 - :seedling: Exploring Python, Java and Data Science.
 - :zap: In my free time, I solve problems on Codewars while listening my infinity spotify playlist.
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/amanda-fullstack/)
