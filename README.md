@@ -18,6 +18,17 @@
 ### :hammer_and_wrench: Languages and Tools :
 <div align="center">
   <img height="40" width="40" src="https://cdn.simpleicons.org/css3/B0E0E6" title='CSS'/>
+  <img height="40" width="40" src="https://cdn.simpleicons.org/postgresql/B0E0E6" title='PostgreSQL'/>
+  <img height="40" width="40" src="https://cdn.simpleicons.org/express/B0E0E6" title='Express'/>
+  <img height="40" width="40" src="https://cdn.simpleicons.org/nodedotjs/B0E0E6" title='NodeJS'/>
+  <img height="40" width="40" src="https://cdn.simpleicons.org/javascript/B0E0E6" title='Javascript'/>
+  <img height="40" width="40" src="https://cdn.simpleicons.org/html5/B0E0E6" title='HTML'/>
+  <img height="40" width="40" src="https://cdn.simpleicons.org/python/B0E0E6" title='Python'/>
+  <img height="40" width="40" src="https://cdn.simpleicons.org/django/B0E0E6" title='Django'/>
+  <img height="40" width="40" src="https://cdn.simpleicons.org/typescript/B0E0E6" title='Typescript'/>
+  <img height="40" width="40" src="https://cdn.simpleicons.org/amazonaws/B0E0E6" title='AWS'/>
+  <img height="40" width="40" src="https://cdn.simpleicons.org/figma/B0E0E6" title='Figma'/>
+  <img height="40" width="40" src="https://cdn.simpleicons.org/mysql/B0E0E6" title='MySQL'/>
   
   
 </div>
